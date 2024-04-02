@@ -10,4 +10,6 @@ if (arrNomi.includes(questionUser)) {
 
 }else {
 
-    console.log("Non sei invita
+    console.log("Non sei invitato");
+
+}
